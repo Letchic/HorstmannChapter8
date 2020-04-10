@@ -1,3 +1,5 @@
+package com.letchik;
+
 import com.letchik.average.AvgWithReduce;
 import com.letchik.firsthundred.HundredTokens;
 import com.letchik.flatmapping.UseFlatMappingMethod;
