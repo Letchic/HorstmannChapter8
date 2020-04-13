@@ -15,7 +15,8 @@ import static java.util.stream.Collectors.toMap;
 
 public class Main {
     public static void main(String[] args) {
-        //Ex 7
+
+       //Ex 7
         List<String> tokens= HundredTokens.mostFrequentWords("1.txt");
         tokens.forEach(System.out::println);
 
